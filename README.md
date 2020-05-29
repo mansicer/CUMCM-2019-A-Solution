@@ -1,5 +1,5 @@
-# CUMCM-2020-A-Solution
-This is a solution for Exercise A of CUMCM-2020.
+# CUMCM-2019-A-Solution
+This is a solution for Exercise A of CUMCM-2019.
 
 Run the code with `sol<number>.m` to get the solution of corresponding assignment.
 
